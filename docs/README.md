@@ -1,3 +1,8 @@
+---
+layout: default
+title: MindExpander User Guide
+---
+
 # MindExpander User Guide
 
 ## Table of Contents
